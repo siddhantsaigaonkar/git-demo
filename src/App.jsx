@@ -5,7 +5,7 @@ import Question from './components/Question';
 export default function App() {
   return (
     <div>
-  <h1>hello main</h1>
+  <h1>hello login</h1>
       <Question></Question>
       <h1>git end</h1>
     </div>
